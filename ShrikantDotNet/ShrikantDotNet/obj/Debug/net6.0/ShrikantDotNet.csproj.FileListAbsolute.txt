@@ -1,0 +1,15 @@
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\bin\Debug\net6.0\ShrikantDotNet.exe
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\bin\Debug\net6.0\ShrikantDotNet.deps.json
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\bin\Debug\net6.0\ShrikantDotNet.runtimeconfig.json
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\bin\Debug\net6.0\ShrikantDotNet.dll
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\bin\Debug\net6.0\ShrikantDotNet.pdb
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\obj\Debug\net6.0\ShrikantDotNet.csproj.AssemblyReference.cache
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\obj\Debug\net6.0\ShrikantDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\obj\Debug\net6.0\ShrikantDotNet.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\obj\Debug\net6.0\ShrikantDotNet.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\obj\Debug\net6.0\ShrikantDotNet.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\obj\Debug\net6.0\ShrikantDotNet.dll
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\obj\Debug\net6.0\refint\ShrikantDotNet.dll
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\obj\Debug\net6.0\ShrikantDotNet.pdb
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\obj\Debug\net6.0\ShrikantDotNet.genruntimeconfig.cache
+C:\Users\CDAC\Desktop\DotNet\ShrikantDotNet\ShrikantDotNet\obj\Debug\net6.0\ref\ShrikantDotNet.dll
