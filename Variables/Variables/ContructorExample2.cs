@@ -71,13 +71,13 @@ namespace Variables
 
     }
 
-    class shri
-    {
-        static void Main(string[] args)
-        {
+    //class shri
+    //{
+    //    static void Main(string[] args)
+    //    {
 
-            ContructorExample2 constructor1 = new ContructorExample2(80);
-        }
+    //        ContructorExample2 constructor1 = new ContructorExample2(80);
+    //    }
 
-    }
+    //}
 }
