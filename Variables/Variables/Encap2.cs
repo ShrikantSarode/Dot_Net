@@ -126,29 +126,29 @@ namespace Variables
         //all acess modifier
         //encapsulation
     }
-    class StudentManagement
-    {
-        static void Main(string[] args)
-        {
-            Encap2 s = new Encap2();
-            s.checkAttendance();
-            s.Display();
-            Encap2.StaticMethod();
+    //class StudentManagement
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        Encap2 s = new Encap2();
+    //        s.checkAttendance();
+    //        s.Display();
+    //        Encap2.StaticMethod();
 
-            Console.WriteLine("=================================");
+    //        Console.WriteLine("=================================");
 
-            Encap2 student2 = new Encap2(55, "Shrikant", 101, "Aug-24", true);
-            student2.Display();
+    //        Encap2 student2 = new Encap2(55, "Shrikant", 101, "Aug-24", true);
+    //        student2.Display();
 
-            Console.WriteLine("=================================");
+    //        Console.WriteLine("=================================");
 
-            // Using getters and setters to modify properties
-            student2.Name = "Om Shirudkar";
-            //student2.rollNumber = 102;
-            student2.Attendance = false;
-            student2.checkAttendance();
-            student2.Display();
+    //        // Using getters and setters to modify properties
+    //        student2.Name = "Om Shirudkar";
+    //        //student2.rollNumber = 102;
+    //        student2.Attendance = false;
+    //        student2.checkAttendance();
+    //        student2.Display();
 
-        }
-    }
+    //    }
+    //}
 }
