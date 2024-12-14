@@ -1,0 +1,15 @@
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\obj\Debug\net6.0\Polymorpism.csproj.AssemblyReference.cache
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\obj\Debug\net6.0\Polymorpism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\obj\Debug\net6.0\Polymorpism.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\obj\Debug\net6.0\Polymorpism.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\obj\Debug\net6.0\Polymorpism.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\bin\Debug\net6.0\Polymorpism.exe
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\bin\Debug\net6.0\Polymorpism.deps.json
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\bin\Debug\net6.0\Polymorpism.runtimeconfig.json
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\bin\Debug\net6.0\Polymorpism.dll
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\bin\Debug\net6.0\Polymorpism.pdb
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\obj\Debug\net6.0\Polymorpism.dll
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\obj\Debug\net6.0\refint\Polymorpism.dll
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\obj\Debug\net6.0\Polymorpism.pdb
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\obj\Debug\net6.0\Polymorpism.genruntimeconfig.cache
+C:\Users\CDAC\Desktop\DotNet\Polymorpism\Polymorpism\obj\Debug\net6.0\ref\Polymorpism.dll
