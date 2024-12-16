@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LT0ChFYtDJfzH2q+k2iEBqGjbGebQLVlZ7WQU7VEj3g=",
+  "Source": "WebAppMiddlewareEx",
+  "BasePath": "_content/WebAppMiddlewareEx",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

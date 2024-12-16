@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CDAC\\Desktop\\DotNet\\RoutingEmpty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{098056BA-DB0A-404D-935B-1E2EC45A9C55}|RoutingEmpty\\RoutingEmpty.csproj|c:\\users\\cdac\\desktop\\dotnet\\routingempty\\routingempty\\view\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{098056BA-DB0A-404D-935B-1E2EC45A9C55}|RoutingEmpty\\RoutingEmpty.csproj|solutionrelative:routingempty\\view\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098056BA-DB0A-404D-935B-1E2EC45A9C55}|RoutingEmpty\\RoutingEmpty.csproj|c:\\users\\cdac\\desktop\\dotnet\\routingempty\\routingempty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098056BA-DB0A-404D-935B-1E2EC45A9C55}|RoutingEmpty\\RoutingEmpty.csproj|solutionrelative:routingempty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098056BA-DB0A-404D-935B-1E2EC45A9C55}|RoutingEmpty\\RoutingEmpty.csproj|c:\\users\\cdac\\desktop\\dotnet\\routingempty\\routingempty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098056BA-DB0A-404D-935B-1E2EC45A9C55}|RoutingEmpty\\RoutingEmpty.csproj|solutionrelative:routingempty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\RoutingEmpty\\RoutingEmpty\\View\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoutingEmpty\\View\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\RoutingEmpty\\RoutingEmpty\\View\\Index.cshtml",
+              "RelativeToolTip": "RoutingEmpty\\View\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T12:08:27.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\RoutingEmpty\\RoutingEmpty\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingEmpty\\Program.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\RoutingEmpty\\RoutingEmpty\\Program.cs",
+              "RelativeToolTip": "RoutingEmpty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:25:06.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\RoutingEmpty\\RoutingEmpty\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RoutingEmpty\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\RoutingEmpty\\RoutingEmpty\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RoutingEmpty\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:20:54.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
