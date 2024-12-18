@@ -1,0 +1,40 @@
+﻿@{
+    // ViewData["Title"] = "Home Page";
+
+    //typecasting the ViewData
+    var employees = ViewData["cdacEmployee"] as List<Employee>;
+    // ViewData["Title"] = "Employee List";
+
+    //as:- by using this it avoids the Cast fails Exception
+}
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+ *@
+
+
+ <h1 class="text-center">Employees Details </h1>
+<table class="table table-primary table-bordered text-center" >
+    <tr ">
+        <th>Id</th>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Level</th>
+    </tr>
+
+    @foreach (var emp in employees)
+    {
+            <tr >
+                <td  style="padding:20px;">@emp.Id</td>
+                <td  style="padding:20px;">@emp.Name</td>
+                <td  style="padding:20px;">@emp.Gender</td>
+                <td  style="padding:20px;">@emp.Level</td>
+            </tr>
+    }
+</table>
+
+
+
+

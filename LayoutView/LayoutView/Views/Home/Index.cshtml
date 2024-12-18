@@ -1,0 +1,32 @@
+﻿@* @{
+    ViewData["Title"] = "Index";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+
+    // Casting the ViewData entry as needed
+    var data1 = ViewData["Data1"] as string;
+    var data2 = ViewData["Data2"] as int?;
+    var data3 = ViewData["Data3"] as string[];
+}
+
+
+
+<div>
+    <h1>Data from Controller:</h1>
+    <p><strong>Data1:</strong> @data1</p>
+    <p><strong>Data2:</strong> @data2</p>
+
+@{
+    foreach (var value in (string[])@ViewData["Data3"])
+    {
+        <h2>@value</h2>
+    }
+}
+
+    @TempData["Message"]
+ *@
+
+<div class="text-center">
+    <b>Name:</b>@TempData["Name"]
+    <br />
+
+</div>

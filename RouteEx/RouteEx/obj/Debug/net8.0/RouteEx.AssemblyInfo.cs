@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RouteEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+638840a6312c3621565f5c7e78bbc7966e92b036")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77c119bbb69212fb1de18cee7a34e067c3a5b05a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RouteEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RouteEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

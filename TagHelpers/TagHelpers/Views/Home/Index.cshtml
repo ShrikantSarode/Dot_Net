@@ -1,0 +1,40 @@
+﻿@model TagHelpers.Models.Employee;
+@{
+    // ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    @*     <a href="/Contact">Contact Page</a>
+
+    <br />
+
+    @Html.ActionLink("Contact page 2", "Contact", "Home")
+
+    <br />
+
+    <a href="@Url.Action("Contact","Home")">Contact Page 3</a>
+
+    <br />
+
+    <a asp-controller="Home" asp-action="Contact">Contact Page 4</a> *@
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4 offset-sm-4 mt-2">
+                <form asp-action="Index" asp-controller="Home" method="post" class="d-grid mt-2">
+
+                    <input asp-for="Name" placeholder="Enter Name" class="form-control mt-2" />
+
+                    <input asp-for="Age" placeholder="Enter Age" class="form-control mt-2" />
+
+                    <input asp-for="Designation" placeholder="Enter Designation" class="form-control mt-2" />
+
+                    <input asp-for="Salary" placeholder="Enter Salary" class="form-control mt-2" />
+
+                    <button type="submit" class="btn btn-warning mt-3">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>

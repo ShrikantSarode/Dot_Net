@@ -1,0 +1,21 @@
+﻿@* @{
+    ViewData["Title"] = "About";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>About</h1>
+<p>This is my About</p>
+
+@ViewData["Data1"]
+@ViewData["Data2"]
+<br />
+
+@TempData["Message"]
+
+ *@
+
+<div class="text-center">
+    <b>Name:</b>@TempData["Name"]
+    <br />
+
+</div>

@@ -1,0 +1,22 @@
+﻿@model ModelEx.Models.Employee  
+
+@{
+    ViewData["Title"] = "Employee Details";
+    // var employees = ViewData["cdacEmployee"] as List<Employee>;
+    var emp = ViewData["cdacEmployee"] as Employee;
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="employee-details">
+    <h3>Employee Information</h3>
+
+   <table class="table table-warning table-bordered">
+        <tr>
+            <td style="padding:20px;">@emp.Id</td>
+            <td style="padding:20px;">@emp.Name</td>
+            <td style="padding:20px;">@emp.Gender</td>
+            <td style="padding:20px;">@emp.Level</td>
+        </tr>
+</table>
+</div>

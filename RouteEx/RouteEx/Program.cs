@@ -29,4 +29,7 @@ app.UseAuthorization();
 //   name: "/about",
 //   pattern: "{action=About}");
 app.MapControllers();
+
+//app.MapGet("/", () => "Hello ");
+
 app.Run();

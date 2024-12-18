@@ -1,0 +1,20 @@
+﻿
+@* @{
+    // ViewData["Title"] = "Details";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+} *@
+
+<h1>Details</h1>
+<p>This is my Details</p>
+
+<h1>ViewBag</h1>
+
+@* in this ViewBag we dont need to type caste the data  *@
+@ViewBag.Title 
+
+@{
+    foreach (var value in @ViewBag.Data1) 
+    {
+        <h2>@value</h2>
+    }
+}
