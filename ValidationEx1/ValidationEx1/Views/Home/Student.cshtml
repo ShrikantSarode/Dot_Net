@@ -1,0 +1,42 @@
+﻿@model ValidationEx1.Models.Student
+@{
+    ViewData["Title"] = "Student";
+}
+
+<h1>Student</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form asp-action="Student" asp-controller="Home" method="post">
+
+                <input asp-for="Name" placeholder="Enter Name" class="form-control" />
+                <span asp-validation-for="Name" style="color:red;"></span>
+                <br />
+
+                <input asp-for="Email" placeholder="Enter Email" class="form-control" />
+                <span asp-validation-for="Email" style="color:red;"></span>
+                <br />
+
+                <input asp-for="Password" placeholder="Enter Password" class="form-control" />
+                <span asp-validation-for="Password" style="color:red;"></span>
+                <br />
+
+                <input asp-for="Age" placeholder="Enter Age" class="form-control" />
+                <span asp-validation-for="Age" style="color:red;"></span>
+                <br />
+
+                <input asp-for="Phone" placeholder="Enter Phone" class="form-control" />
+                <span asp-validation-for="Phone" style="color:red;"></span>
+                <br />
+
+                <input asp-for="Url" placeholder="Enter URL" class="form-control" />
+                <span asp-validation-for="Url" style="color:red;"></span>
+                <br />
+
+
+                <input type="submit" value="Submit" class="btn btn-warning" />
+            </form>
+        </div>
+    </div>
+</div>

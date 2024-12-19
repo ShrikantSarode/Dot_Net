@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CDAC\\Desktop\\DotNet\\ValidationEx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2A48D-7D89-45C2-A785-5E653B5733E9}|ValidationEx1\\ValidationEx1.csproj|c:\\users\\cdac\\desktop\\dotnet\\validationex1\\validationex1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2A48D-7D89-45C2-A785-5E653B5733E9}|ValidationEx1\\ValidationEx1.csproj|solutionrelative:validationex1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2A48D-7D89-45C2-A785-5E653B5733E9}|ValidationEx1\\ValidationEx1.csproj|c:\\users\\cdac\\desktop\\dotnet\\validationex1\\validationex1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2A48D-7D89-45C2-A785-5E653B5733E9}|ValidationEx1\\ValidationEx1.csproj|solutionrelative:validationex1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2A48D-7D89-45C2-A785-5E653B5733E9}|ValidationEx1\\ValidationEx1.csproj|c:\\users\\cdac\\desktop\\dotnet\\validationex1\\validationex1\\views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1D2A48D-7D89-45C2-A785-5E653B5733E9}|ValidationEx1\\ValidationEx1.csproj|solutionrelative:validationex1\\views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\ValidationEx1\\ValidationEx1\\Views\\Home\\Student.cshtml",
+              "RelativeDocumentMoniker": "ValidationEx1\\Views\\Home\\Student.cshtml",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ValidationEx1\\ValidationEx1\\Views\\Home\\Student.cshtml",
+              "RelativeToolTip": "ValidationEx1\\Views\\Home\\Student.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T04:04:41.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\ValidationEx1\\ValidationEx1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ValidationEx1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ValidationEx1\\ValidationEx1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ValidationEx1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:03:57.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\ValidationEx1\\ValidationEx1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ValidationEx1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ValidationEx1\\ValidationEx1\\Models\\Student.cs",
+              "RelativeToolTip": "ValidationEx1\\Models\\Student.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:03:24.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
