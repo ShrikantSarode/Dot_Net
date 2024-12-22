@@ -1,0 +1,218 @@
+﻿@model CfirstApproach.Models.Employeee
+
+@{
+    ViewData["Title"] = "Employee Profile";
+}
+
+<style>
+    .profile-container {
+        background: linear-gradient(43deg, #00b09b 0%, #96c93d 46%, #fff720 100%);
+        min-height: calc(100vh - 160px);
+        margin-top: 60px;
+        margin-bottom: 60px;
+        padding: 2rem;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .floating-circles {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+        z-index: 1;
+        opacity: 0.1;
+    }
+
+    .circle {
+        position: absolute;
+        border-radius: 50%;
+        background: white;
+        animation: float 15s infinite;
+    }
+
+    
+
+    }
+
+    .profile-card {
+        background: rgba(255, 255, 255, 0.95);
+        border-radius: 30px;
+        padding: 0;
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+        position: relative;
+        z-index: 2;
+        backdrop-filter: blur(10px);
+        overflow: hidden;
+        animation: cardReveal 0.8s ease-out;
+    }
+
+    
+    }
+
+    .profile-header {
+        background: linear-gradient(45deg, #1a2a6c, #b21f1f);
+        padding: 3rem;
+        text-align: center;
+        color: white;
+    }
+
+    .profile-image {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        border: 5px solid white;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        animation: profilePulse 2s infinite;
+    }
+ 
+
+    }
+
+    .profile-name {
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 0.5rem;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    }
+
+    .profile-role {
+        font-size: 1.2rem;
+        opacity: 0.9;
+    }
+
+    .details-section {
+        padding: 2rem;
+    }
+
+    .detail-item {
+        padding: 1.5rem;
+        border-radius: 15px;
+        background: white;
+        margin-bottom: 1rem;
+        transition: all 0.3s ease;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    }
+
+        .detail-item:hover {
+            transform: translateX(10px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+        }
+
+    .detail-label {
+        color: #1a2a6c;
+        font-weight: 600;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-bottom: 0.5rem;
+    }
+
+    .detail-value {
+        font-size: 1.2rem;
+        color: #2c3e50;
+    }
+
+    .action-buttons {
+        display: flex;
+        gap: 1rem;
+        justify-content: center;
+        padding: 2rem;
+    }
+
+    .action-btn {
+        padding: 1rem 2rem;
+        border-radius: 50px;
+        text-decoration: none;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .edit-btn {
+        background: linear-gradient(45deg, #1a2a6c, #b21f1f);
+        color: white;
+    }
+
+    .back-btn {
+        background: linear-gradient(45deg, #2c3e50, #3498db);
+        color: white;
+    }
+
+    .action-btn:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        color: white;
+    }
+</style>
+
+<div class="profile-container">
+    <div class="floating-circles">
+        @for (int i = 0; i < 20; i++)
+        {
+            <div class="circle" style="
+                width: @(Random.Shared.Next(10, 50))px;
+                height: @(Random.Shared.Next(10, 50))px;
+                left: @(Random.Shared.Next(0, 100))%;
+                top: @(Random.Shared.Next(0, 100))%;
+                animation-delay: @(Random.Shared.Next(0, 5))s;
+                "></div>
+        }
+    </div>
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="profile-card">
+                    <div class="profile-header">
+                        <img src="https://ui-avatars.com/api/?name=@Model.Name&background=random"
+                             alt="@Model.Name" class="profile-image">
+                        <h1 class="profile-name">@Model.Name</h1>
+                        <p class="profile-role">Employee Profile</p>
+                    </div>
+
+                    <div class="details-section">
+                        <div class="detail-item">
+                            <div class="detail-label">
+                                <i class="fas fa-user me-2"></i>Name
+                            </div>
+                            <div class="detail-value">@Model.Name</div>
+                        </div>
+
+                        <div class="detail-item">
+                            <div class="detail-label">
+                                <i class="fas fa-venus-mars me-2"></i>Gender
+                            </div>
+                            <div class="detail-value">@Model.Gender</div>
+                        </div>
+
+                        <div class="detail-item">
+                            <div class="detail-label">
+                                <i class="fas fa-birthday-cake me-2"></i>Age
+                            </div>
+                            <div class="detail-value">@Model.Age years</div>
+                        </div>
+
+                        <div class="detail-item">
+                            <div class="detail-label">
+                                <i class="fas fa-city me-2"></i>City
+                            </div>
+                            <div class="detail-value">@Model.City</div>
+                        </div>
+                    </div>
+
+                    <div class="action-buttons">
+                        <a asp-action="Edit" asp-route-id="@Model?.Id" class="action-btn edit-btn">
+                            <i class="fas fa-edit me-2"></i>Edit Profile
+                        </a>
+                        <a asp-action="Index" class="action-btn back-btn">
+                            <i class="fas fa-arrow-left me-2"></i>Back to List
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

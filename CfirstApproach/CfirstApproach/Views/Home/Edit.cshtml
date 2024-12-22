@@ -1,0 +1,199 @@
+﻿@model CfirstApproach.Models.Employeee
+
+@{
+    ViewData["Title"] = "Edit Employee";
+}
+
+<style>
+    .page-wrapper {
+        background: linear-gradient(43deg, #2193b0 0%, #6dd5ed 46%, #ffffff 100%);
+        /*    background-size: cover;
+        background-attachment: fixed; */
+        /* min-height: calc(100vh - 160px); /* Adjusted for nav and footer */ */
+      /*   margin-top: 60px; /* Adjust based on your nav height */
+        margin-bottom: 60px;  
+        padding: 2rem;
+        width:100% !important;
+    }
+
+    .content-wrapper {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .profile-section {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    .profile-photo-container {
+        position: relative;
+        width: 150px;
+        height: 150px;
+        margin: 0 auto 1rem;
+    }
+
+    .profile-photo {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 4px solid white;
+        box-shadow: 0 0 20px rgba(0,0,0,0.2);
+        transition: transform 0.3s ease;
+    }
+
+    .photo-upload-label {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        background: #4158D0;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+        .photo-upload-label:hover {
+            transform: scale(1.1);
+        }
+
+        .photo-upload-label i {
+            color: white;
+        }
+
+    #photoUpload {
+        display: none;
+    }
+
+    .edit-card {
+        background: rgba(255, 255, 255, 0.95);
+        border-radius: 20px;
+        padding: 2rem;
+        box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+        animation: slideUp 0.5s ease-out;
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.18);
+    }
+
+    .form-control {
+        border-radius: 10px;
+        padding: 0.8rem;
+        border: 2px solid #e1e1e1;
+        background: rgba(255, 255, 255, 0.9);
+    }
+
+    .btn-save {
+        background: linear-gradient(to right, #2193b0, #6dd5ed);
+        color: white;
+        padding: 1rem 2.5rem;
+        border-radius: 50px;
+        font-weight: 600;
+        letter-spacing: 1px;
+    }
+
+    .employee-info {
+        color: white;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+        .employee-info h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .employee-info p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+    /* Rest of your existing styles... */
+</style>
+
+<div class="page-wrapper container-fluid">
+    <div class="content-wrapper">
+        <div class="profile-section">
+            <div class="profile-photo-container">
+                <img src="https://via.placeholder.com/150" alt="Profile Photo" class="profile-photo" id="profileImage">
+                <label for="photoUpload" class="photo-upload-label">
+                    <i class="fas fa-camera"></i>
+                </label>
+                <input type="file" id="photoUpload" accept="image/*">
+            </div>
+            <div class="employee-info">
+                <h1>Edit Profile</h1>
+                <p>Update your information below</p>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="edit-card">
+                    <form asp-action="Edit">
+                        <!-- Your existing form content -->
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" />
+
+                        <div class="form-group">
+                            <label asp-for="Name" class="control-label"></label>
+                            <input asp-for="Name" class="form-control" placeholder="Enter name" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Gender" class="control-label"></label>
+                            <select asp-for="Gender" class="form-control">
+                                <option value="">Select Gender</option>
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                                <option value="Other">Other</option>
+                            </select>
+                            <span asp-validation-for="Gender" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Age" class="control-label"></label>
+                            <input asp-for="Age" class="form-control" placeholder="Enter age" />
+                            <span asp-validation-for="Age" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="City" class="control-label"></label>
+                            <input asp-for="City" class="form-control" placeholder="Enter city" />
+                            <span asp-validation-for="City" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-save">
+                                <i class="fas fa-save me-2"></i>Save Changes
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        document.getElementById('photoUpload').addEventListener('change', function(e) {
+            if (e.target.files && e.target.files[0]) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    document.getElementById('profileImage').setAttribute('src', e.target.result);
+                }
+                reader.readAsDataURL(e.target.files[0]);
+            }
+        });
+    </script>
+}

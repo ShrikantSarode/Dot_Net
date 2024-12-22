@@ -1,0 +1,186 @@
+﻿@model CfirstApproach.Models.Employeee
+
+@{
+    ViewData["Title"] = "Delete Employee";
+}
+
+<style>
+    .delete-container {
+        background: linear-gradient(135deg, #ff6b6b, #c72c41);
+        min-height: calc(100vh - 160px);
+        margin-top: 60px;
+        margin-bottom: 60px;
+        padding: 2rem;
+        position: relative;
+    }
+
+    .warning-card {
+        background: rgba(255, 255, 255, 0.95);
+        border-radius: 20px;
+        padding: 2rem;
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+        animation: slideIn 0.6s ease-out;
+    }
+
+    
+
+    
+
+    .warning-header {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    .warning-icon {
+        font-size: 5rem;
+        color: #ff6b6b;
+        animation: pulse 2s infinite;
+    }
+
+    
+
+    
+
+    .warning-title {
+        color: #c72c41;
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin: 1rem 0;
+    }
+
+    .warning-subtitle {
+        color: #666;
+        font-size: 1.2rem;
+    }
+
+    .employee-info {
+        background: #f8f9fa;
+        border-radius: 15px;
+        padding: 2rem;
+        margin: 2rem 0;
+    }
+
+    .info-item {
+        display: flex;
+        align-items: center;
+        padding: 1rem;
+        border-bottom: 1px solid #eee;
+        transition: all 0.3s ease;
+    }
+
+        .info-item:last-child {
+            border-bottom: none;
+        }
+
+        .info-item:hover {
+            background: rgba(255, 107, 107, 0.1);
+            transform: translateX(10px);
+        }
+
+    .info-label {
+        font-weight: 600;
+        color: #c72c41;
+        width: 120px;
+        font-size: 1.1rem;
+    }
+
+    .info-value {
+        color: #333;
+        font-size: 1.1rem;
+        flex-grow: 1;
+    }
+
+    .action-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        margin-top: 2rem;
+    }
+
+    .delete-btn {
+        background: linear-gradient(45deg, #ff6b6b, #c72c41);
+        color: white;
+        padding: 1rem 2.5rem;
+        border-radius: 50px;
+        border: none;
+        font-size: 1.1rem;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .cancel-btn {
+        background: linear-gradient(45deg, #2c3e50, #3498db);
+        color: white;
+        padding: 1rem 2.5rem;
+        border-radius: 50px;
+        text-decoration: none;
+        font-size: 1.1rem;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+        .delete-btn:hover, .cancel-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            color: white;
+        }
+
+        .delete-btn:active, .cancel-btn:active {
+            transform: translateY(-1px);
+        }
+</style>
+
+<div class="delete-container">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="warning-card">
+                    <div class="warning-header">
+                        <i class="fas fa-exclamation-triangle warning-icon"></i>
+                        <h1 class="warning-title">Confirm Deletion</h1>
+                        <p class="warning-subtitle">Are you sure you want to delete this employee record? This action cannot be undone.</p>
+                    </div>
+
+                    <div class="employee-info">
+                        <div class="info-item">
+                            <span class="info-label">
+                                <i class="fas fa-user me-2"></i>Name
+                            </span>
+                            <span class="info-value">@Model.Name</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">
+                                <i class="fas fa-venus-mars me-2"></i>Gender
+                            </span>
+                            <span class="info-value">@Model.Gender</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">
+                                <i class="fas fa-birthday-cake me-2"></i>Age
+                            </span>
+                            <span class="info-value">@Model.Age</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">
+                                <i class="fas fa-city me-2"></i>City
+                            </span>
+                            <span class="info-value">@Model.City</span>
+                        </div>
+                    </div>
+
+                    <form asp-action="Delete">
+                        <input type="hidden" asp-for="Id" />
+                        <div class="action-buttons">
+                            <button type="submit" class="delete-btn">
+                                <i class="fas fa-trash-alt me-2"></i>Delete
+                            </button>
+                            <a asp-action="Index" class="cancel-btn">
+                                <i class="fas fa-times me-2"></i>Cancel
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

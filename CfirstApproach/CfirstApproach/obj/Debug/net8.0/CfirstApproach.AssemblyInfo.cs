@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CfirstApproach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+334a8b00b4c9dd08f79b4cfe51ef02eed006c7be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adddab14f08651fb1246b93771f291c1610f6935")]
 [assembly: System.Reflection.AssemblyProductAttribute("CfirstApproach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CfirstApproach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
