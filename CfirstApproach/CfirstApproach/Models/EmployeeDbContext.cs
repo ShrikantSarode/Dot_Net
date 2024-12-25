@@ -4,7 +4,7 @@ namespace CfirstApproach.Models
 {
     public class EmployeeDbContext : DbContext
     {
-        public EmployeeDbContext(DbContextOptions options) : base(options)
+        public EmployeeDbContext(DbContextOptions options) : base(options) 
         {
 
         }

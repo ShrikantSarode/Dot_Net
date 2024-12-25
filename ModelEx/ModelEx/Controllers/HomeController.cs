@@ -67,6 +67,21 @@ namespace ModelEx.Controllers
             ViewData["cdacEmployee"] = emp;
             return View(emp);
         }
+        [HttpGet]
+        public IActionResult Details()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Details(int id)
+        {
+            // Find employee by id from your data source
+            var employee = _employeeRepository.GetEmployee(id);
+            ViewData["cdacEmployee"] = employee;// view data is used to transfer the data from controller to view
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

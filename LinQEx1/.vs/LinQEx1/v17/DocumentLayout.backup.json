@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CDAC\\Desktop\\DotNet\\LinQEx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4189EAB2-2F36-4252-A1B2-72282902043B}|LinQEx1\\LinQEx1.csproj|c:\\users\\cdac\\desktop\\dotnet\\linqex1\\linqex1\\linqex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4189EAB2-2F36-4252-A1B2-72282902043B}|LinQEx1\\LinQEx1.csproj|solutionrelative:linqex1\\linqex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4189EAB2-2F36-4252-A1B2-72282902043B}|LinQEx1\\LinQEx1.csproj|c:\\users\\cdac\\desktop\\dotnet\\linqex1\\linqex1\\linqex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4189EAB2-2F36-4252-A1B2-72282902043B}|LinQEx1\\LinQEx1.csproj|solutionrelative:linqex1\\linqex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4189EAB2-2F36-4252-A1B2-72282902043B}|LinQEx1\\LinQEx1.csproj|c:\\users\\cdac\\desktop\\dotnet\\linqex1\\linqex1\\linqex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4189EAB2-2F36-4252-A1B2-72282902043B}|LinQEx1\\LinQEx1.csproj|solutionrelative:linqex1\\linqex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4189EAB2-2F36-4252-A1B2-72282902043B}|LinQEx1\\LinQEx1.csproj|c:\\users\\cdac\\desktop\\dotnet\\linqex1\\linqex1\\linqex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4189EAB2-2F36-4252-A1B2-72282902043B}|LinQEx1\\LinQEx1.csproj|solutionrelative:linqex1\\linqex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinqEx4.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\LinQEx1\\LinQEx1\\LinqEx4.cs",
+              "RelativeDocumentMoniker": "LinQEx1\\LinqEx4.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\LinQEx1\\LinQEx1\\LinqEx4.cs",
+              "RelativeToolTip": "LinQEx1\\LinqEx4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:19:05.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqEx3.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\LinQEx1\\LinQEx1\\LinqEx3.cs",
+              "RelativeDocumentMoniker": "LinQEx1\\LinqEx3.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\LinQEx1\\LinQEx1\\LinqEx3.cs",
+              "RelativeToolTip": "LinQEx1\\LinqEx3.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:18:33.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqEx2.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\LinQEx1\\LinQEx1\\LinqEx2.cs",
+              "RelativeDocumentMoniker": "LinQEx1\\LinqEx2.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\LinQEx1\\LinQEx1\\LinqEx2.cs",
+              "RelativeToolTip": "LinQEx1\\LinqEx2.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwDUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:00:58.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinQEx1.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\LinQEx1\\LinQEx1\\LinQEx1.cs",
+              "RelativeDocumentMoniker": "LinQEx1\\LinQEx1.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\LinQEx1\\LinQEx1\\LinQEx1.cs",
+              "RelativeToolTip": "LinQEx1\\LinQEx1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:18:02.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

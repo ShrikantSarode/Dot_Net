@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CDAC\\Desktop\\DotNet\\RouterEx4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F0597C-B775-4C70-A100-6278717E9850}|RouterEx4\\RouterEx4.csproj|c:\\users\\cdac\\desktop\\dotnet\\routerex4\\routerex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F0597C-B775-4C70-A100-6278717E9850}|RouterEx4\\RouterEx4.csproj|solutionrelative:routerex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F0597C-B775-4C70-A100-6278717E9850}|RouterEx4\\RouterEx4.csproj|c:\\users\\cdac\\desktop\\dotnet\\routerex4\\routerex4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F0597C-B775-4C70-A100-6278717E9850}|RouterEx4\\RouterEx4.csproj|solutionrelative:routerex4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F0597C-B775-4C70-A100-6278717E9850}|RouterEx4\\RouterEx4.csproj|c:\\users\\cdac\\desktop\\dotnet\\routerex4\\routerex4\\views\\home\\shrikant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F0597C-B775-4C70-A100-6278717E9850}|RouterEx4\\RouterEx4.csproj|solutionrelative:routerex4\\views\\home\\shrikant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F0597C-B775-4C70-A100-6278717E9850}|RouterEx4\\RouterEx4.csproj|c:\\users\\cdac\\desktop\\dotnet\\routerex4\\routerex4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F0597C-B775-4C70-A100-6278717E9850}|RouterEx4\\RouterEx4.csproj|solutionrelative:routerex4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F0597C-B775-4C70-A100-6278717E9850}|RouterEx4\\RouterEx4.csproj|c:\\users\\cdac\\desktop\\dotnet\\routerex4\\routerex4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F0597C-B775-4C70-A100-6278717E9850}|RouterEx4\\RouterEx4.csproj|solutionrelative:routerex4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\RouterEx4\\RouterEx4\\Program.cs",
+              "RelativeDocumentMoniker": "RouterEx4\\Program.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\RouterEx4\\RouterEx4\\Program.cs",
+              "RelativeToolTip": "RouterEx4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:21:56.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shrikant.cshtml",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\RouterEx4\\RouterEx4\\Views\\Home\\Shrikant.cshtml",
+              "RelativeDocumentMoniker": "RouterEx4\\Views\\Home\\Shrikant.cshtml",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\RouterEx4\\RouterEx4\\Views\\Home\\Shrikant.cshtml",
+              "RelativeToolTip": "RouterEx4\\Views\\Home\\Shrikant.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T05:21:46.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\RouterEx4\\RouterEx4\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RouterEx4\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\RouterEx4\\RouterEx4\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "RouterEx4\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T05:21:36.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\RouterEx4\\RouterEx4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RouterEx4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\RouterEx4\\RouterEx4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RouterEx4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T05:21:26.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\RouterEx4\\RouterEx4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RouterEx4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\RouterEx4\\RouterEx4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RouterEx4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:21:09.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

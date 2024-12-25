@@ -11,28 +11,20 @@
       "RelativeMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|solutionrelative:modelex\\views\\home\\getallemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|c:\\users\\cdac\\desktop\\dotnet\\modelex\\modelex\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|solutionrelative:modelex\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|c:\\users\\cdac\\desktop\\dotnet\\modelex\\modelex\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|solutionrelative:modelex\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|c:\\users\\cdac\\desktop\\dotnet\\modelex\\modelex\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|solutionrelative:modelex\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|c:\\users\\cdac\\desktop\\dotnet\\modelex\\modelex\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|solutionrelative:modelex\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|c:\\users\\cdac\\desktop\\dotnet\\modelex\\modelex\\repository\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|solutionrelative:modelex\\repository\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|c:\\users\\cdac\\desktop\\dotnet\\modelex\\modelex\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|solutionrelative:modelex\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|c:\\users\\cdac\\desktop\\dotnet\\modelex\\modelex\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|solutionrelative:modelex\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|c:\\users\\cdac\\desktop\\dotnet\\modelex\\modelex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|solutionrelative:modelex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|c:\\users\\cdac\\desktop\\dotnet\\modelex\\modelex\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7109D3B8-73E9-4899-BE2C-0B94B552D295}|ModelEx\\ModelEx.csproj|solutionrelative:modelex\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ModelEx\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ModelEx\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T09:32:44.869Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -65,22 +44,10 @@
               "RelativeDocumentMoniker": "ModelEx\\Views\\Home\\getEmployee.cshtml",
               "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Views\\Home\\getEmployee.cshtml",
               "RelativeToolTip": "ModelEx\\Views\\Home\\getEmployee.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T08:50:30.011Z",
+              "WhenOpened": "2024-12-24T06:46:41.507Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ModelEx\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ModelEx\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T04:37:41.171Z"
             },
             {
               "$type": "Document",
@@ -90,9 +57,9 @@
               "RelativeDocumentMoniker": "ModelEx\\Views\\Home\\getAllEmployees.cshtml",
               "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Views\\Home\\getAllEmployees.cshtml",
               "RelativeToolTip": "ModelEx\\Views\\Home\\getAllEmployees.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T08:43:01.793Z",
+              "WhenOpened": "2024-12-24T06:45:41.91Z",
               "EditorCaption": ""
             },
             {
@@ -103,47 +70,48 @@
               "RelativeDocumentMoniker": "ModelEx\\Repository\\EmployeeRepository.cs",
               "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Repository\\EmployeeRepository.cs",
               "RelativeToolTip": "ModelEx\\Repository\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T08:39:58.103Z",
+              "WhenOpened": "2024-12-24T06:44:14.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Program.cs",
-              "RelativeDocumentMoniker": "ModelEx\\Program.cs",
-              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Program.cs",
-              "RelativeToolTip": "ModelEx\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T05:59:58.517Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ModelEx\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ModelEx\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwC8AAAALAAAAAAAAAA==",
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Repository\\IEmployee.cs",
+              "RelativeDocumentMoniker": "ModelEx\\Repository\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Repository\\IEmployee.cs",
+              "RelativeToolTip": "ModelEx\\Repository\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T04:16:52.134Z",
+              "WhenOpened": "2024-12-24T06:44:04.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelEx\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelEx\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFAAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:43:45.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "ModelEx\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\ModelEx\\ModelEx\\Models\\Employee.cs",
               "RelativeToolTip": "ModelEx\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T04:07:54.526Z",
+              "WhenOpened": "2024-12-24T06:43:29.931Z",
               "EditorCaption": ""
             }
           ]

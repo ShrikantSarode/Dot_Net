@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|c:\\users\\cdac\\desktop\\dotnet\\cfirstapproach\\cfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|solutionrelative:cfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|c:\\users\\cdac\\desktop\\dotnet\\cfirstapproach\\cfirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|solutionrelative:cfirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|c:\\users\\cdac\\desktop\\dotnet\\cfirstapproach\\cfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|solutionrelative:cfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|c:\\users\\cdac\\desktop\\dotnet\\cfirstapproach\\cfirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|solutionrelative:cfirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|c:\\users\\cdac\\desktop\\dotnet\\cfirstapproach\\cfirstapproach\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|solutionrelative:cfirstapproach\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|c:\\users\\cdac\\desktop\\dotnet\\cfirstapproach\\cfirstapproach\\models\\employeee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|solutionrelative:cfirstapproach\\models\\employeee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|c:\\users\\cdac\\desktop\\dotnet\\cfirstapproach\\cfirstapproach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|solutionrelative:cfirstapproach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|c:\\users\\cdac\\desktop\\dotnet\\cfirstapproach\\cfirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|solutionrelative:cfirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|c:\\users\\cdac\\desktop\\dotnet\\cfirstapproach\\cfirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|solutionrelative:cfirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|c:\\users\\cdac\\desktop\\dotnet\\cfirstapproach\\cfirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8693B36-F5E2-4C51-A265-605CA59C4765}|CfirstApproach\\CfirstApproach.csproj|solutionrelative:cfirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,82 +30,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\appsettings.json",
               "RelativeDocumentMoniker": "CfirstApproach\\appsettings.json",
               "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\appsettings.json",
               "RelativeToolTip": "CfirstApproach\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-20T10:24:24.087Z",
+              "WhenOpened": "2024-12-25T05:42:34.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Program.cs",
               "RelativeDocumentMoniker": "CfirstApproach\\Program.cs",
               "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Program.cs",
               "RelativeToolTip": "CfirstApproach\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T10:09:32.361Z",
+              "WhenOpened": "2024-12-25T05:42:20.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Views\\Home\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CfirstApproach\\Views\\Home\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Views\\Home\\Delete.cshtml",
-              "RelativeToolTip": "CfirstApproach\\Views\\Home\\Delete.cshtml",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAAACkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T09:03:01.77Z",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "CfirstApproach\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "CfirstApproach\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:40:57.947Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "CfirstApproach\\Views\\Home\\Details.cshtml",
-              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "CfirstApproach\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAASwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T08:57:37.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Views\\Home\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CfirstApproach\\Views\\Home\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Views\\Home\\Edit.cshtml",
-              "RelativeToolTip": "CfirstApproach\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFoAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T07:45:21.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "CfirstApproach\\Views\\Home\\Create.cshtml",
-              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "CfirstApproach\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAkwJgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T06:52:44.956Z"
             },
             {
               "$type": "Document",
@@ -127,22 +79,22 @@
               "RelativeDocumentMoniker": "CfirstApproach\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CfirstApproach\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAYwJoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T03:26:50.326Z",
+              "WhenOpened": "2024-12-25T05:39:22.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Employeee.cs",
               "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Models\\Employeee.cs",
               "RelativeDocumentMoniker": "CfirstApproach\\Models\\Employeee.cs",
               "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\CfirstApproach\\CfirstApproach\\Models\\Employeee.cs",
               "RelativeToolTip": "CfirstApproach\\Models\\Employeee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T09:00:54.971Z",
+              "WhenOpened": "2024-12-25T05:38:26.513Z",
               "EditorCaption": ""
             }
           ]

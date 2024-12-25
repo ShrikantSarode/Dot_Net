@@ -1,0 +1,15 @@
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\bin\Debug\net9.0\LinQEx1.exe
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\bin\Debug\net9.0\LinQEx1.deps.json
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\bin\Debug\net9.0\LinQEx1.runtimeconfig.json
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\bin\Debug\net9.0\LinQEx1.dll
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\bin\Debug\net9.0\LinQEx1.pdb
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\obj\Debug\net9.0\LinQEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\obj\Debug\net9.0\LinQEx1.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\obj\Debug\net9.0\LinQEx1.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\obj\Debug\net9.0\LinQEx1.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\obj\Debug\net9.0\LinQEx1.sourcelink.json
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\obj\Debug\net9.0\LinQEx1.dll
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\obj\Debug\net9.0\refint\LinQEx1.dll
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\obj\Debug\net9.0\LinQEx1.pdb
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\obj\Debug\net9.0\LinQEx1.genruntimeconfig.cache
+C:\Users\CDAC\Desktop\DotNet\LinQEx1\LinQEx1\obj\Debug\net9.0\ref\LinQEx1.dll
