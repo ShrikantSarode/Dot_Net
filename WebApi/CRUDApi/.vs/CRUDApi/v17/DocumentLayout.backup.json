@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shrikant\\Desktop\\Dot\\CRUDApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15FDAA39-62DC-4364-946F-A310FDE3B930}|CRUDApi\\CRUDApi.csproj|c:\\users\\shrikant\\desktop\\dot\\crudapi\\crudapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FDAA39-62DC-4364-946F-A310FDE3B930}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FDAA39-62DC-4364-946F-A310FDE3B930}|CRUDApi\\CRUDApi.csproj|c:\\users\\shrikant\\desktop\\dot\\crudapi\\crudapi\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FDAA39-62DC-4364-946F-A310FDE3B930}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FDAA39-62DC-4364-946F-A310FDE3B930}|CRUDApi\\CRUDApi.csproj|c:\\users\\shrikant\\desktop\\dot\\crudapi\\crudapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FDAA39-62DC-4364-946F-A310FDE3B930}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Shrikant\\Desktop\\Dot\\CRUDApi\\CRUDApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Shrikant\\Desktop\\Dot\\CRUDApi\\CRUDApi\\Models\\Product.cs",
+              "RelativeToolTip": "CRUDApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:29:59.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shrikant\\Desktop\\Dot\\CRUDApi\\CRUDApi\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Models\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\Shrikant\\Desktop\\Dot\\CRUDApi\\CRUDApi\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "CRUDApi\\Models\\ProductDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:29:52.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Shrikant\\Desktop\\Dot\\CRUDApi\\CRUDApi\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\Shrikant\\Desktop\\Dot\\CRUDApi\\CRUDApi\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "CRUDApi\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwEgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:15:01.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

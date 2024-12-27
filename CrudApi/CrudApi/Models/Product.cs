@@ -5,7 +5,8 @@ namespace CrudApi.Models;
 
 public partial class Product
 {
-    public string ProductionName { get; set; } = null!;
+    public int ProductId { get; set; }
+    public string ProductName { get; set; } = null!;
 
     public string? Description { get; set; }
 

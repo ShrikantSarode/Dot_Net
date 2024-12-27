@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IdentityFrameworkEx2.props" />
+</Project>
