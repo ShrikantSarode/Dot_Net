@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CDAC\\Desktop\\DotNet\\GroomEasyBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE46EFF4-A91A-49B7-8447-656477D91FE8}|GroomEasyBackend\\GroomEasyBackend.csproj|c:\\users\\cdac\\desktop\\dotnet\\groomeasybackend\\groomeasybackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE46EFF4-A91A-49B7-8447-656477D91FE8}|GroomEasyBackend\\GroomEasyBackend.csproj|solutionrelative:groomeasybackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE46EFF4-A91A-49B7-8447-656477D91FE8}|GroomEasyBackend\\GroomEasyBackend.csproj|c:\\users\\cdac\\desktop\\dotnet\\groomeasybackend\\groomeasybackend\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE46EFF4-A91A-49B7-8447-656477D91FE8}|GroomEasyBackend\\GroomEasyBackend.csproj|solutionrelative:groomeasybackend\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE46EFF4-A91A-49B7-8447-656477D91FE8}|GroomEasyBackend\\GroomEasyBackend.csproj|c:\\users\\cdac\\desktop\\dotnet\\groomeasybackend\\groomeasybackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE46EFF4-A91A-49B7-8447-656477D91FE8}|GroomEasyBackend\\GroomEasyBackend.csproj|solutionrelative:groomeasybackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE46EFF4-A91A-49B7-8447-656477D91FE8}|GroomEasyBackend\\GroomEasyBackend.csproj|c:\\users\\cdac\\desktop\\dotnet\\groomeasybackend\\groomeasybackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE46EFF4-A91A-49B7-8447-656477D91FE8}|GroomEasyBackend\\GroomEasyBackend.csproj|solutionrelative:groomeasybackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE46EFF4-A91A-49B7-8447-656477D91FE8}|GroomEasyBackend\\GroomEasyBackend.csproj|c:\\users\\cdac\\desktop\\dotnet\\groomeasybackend\\groomeasybackend\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE46EFF4-A91A-49B7-8447-656477D91FE8}|GroomEasyBackend\\GroomEasyBackend.csproj|solutionrelative:groomeasybackend\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\GroomEasyBackend\\GroomEasyBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GroomEasyBackend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\GroomEasyBackend\\GroomEasyBackend\\Models\\User.cs",
+              "RelativeToolTip": "GroomEasyBackend\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:53:59.916Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\GroomEasyBackend\\GroomEasyBackend\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "GroomEasyBackend\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\GroomEasyBackend\\GroomEasyBackend\\Models\\Role.cs",
+              "RelativeToolTip": "GroomEasyBackend\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:36:34.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\GroomEasyBackend\\GroomEasyBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "GroomEasyBackend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\GroomEasyBackend\\GroomEasyBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "GroomEasyBackend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:52:22.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\GroomEasyBackend\\GroomEasyBackend\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "GroomEasyBackend\\Data\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\GroomEasyBackend\\GroomEasyBackend\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "GroomEasyBackend\\Data\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:57:27.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\GroomEasyBackend\\GroomEasyBackend\\Program.cs",
+              "RelativeDocumentMoniker": "GroomEasyBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\GroomEasyBackend\\GroomEasyBackend\\Program.cs",
+              "RelativeToolTip": "GroomEasyBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:58:42.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

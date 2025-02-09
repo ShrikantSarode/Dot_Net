@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CDAC\\Desktop\\DotNet\\TeckWorkShopAPIApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8A718C-EF05-4EFF-94F4-E0B43ED50915}|TeckWorkShopAPIApp\\TeckWorkShopAPIApp.csproj|c:\\users\\cdac\\desktop\\dotnet\\teckworkshopapiapp\\teckworkshopapiapp\\controllers\\techworkshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8A718C-EF05-4EFF-94F4-E0B43ED50915}|TeckWorkShopAPIApp\\TeckWorkShopAPIApp.csproj|solutionrelative:teckworkshopapiapp\\controllers\\techworkshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8A718C-EF05-4EFF-94F4-E0B43ED50915}|TeckWorkShopAPIApp\\TeckWorkShopAPIApp.csproj|c:\\users\\cdac\\desktop\\dotnet\\teckworkshopapiapp\\teckworkshopapiapp\\dbcontext\\techworkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8A718C-EF05-4EFF-94F4-E0B43ED50915}|TeckWorkShopAPIApp\\TeckWorkShopAPIApp.csproj|solutionrelative:teckworkshopapiapp\\dbcontext\\techworkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8A718C-EF05-4EFF-94F4-E0B43ED50915}|TeckWorkShopAPIApp\\TeckWorkShopAPIApp.csproj|c:\\users\\cdac\\desktop\\dotnet\\teckworkshopapiapp\\teckworkshopapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8A718C-EF05-4EFF-94F4-E0B43ED50915}|TeckWorkShopAPIApp\\TeckWorkShopAPIApp.csproj|solutionrelative:teckworkshopapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8A718C-EF05-4EFF-94F4-E0B43ED50915}|TeckWorkShopAPIApp\\TeckWorkShopAPIApp.csproj|c:\\users\\cdac\\desktop\\dotnet\\teckworkshopapiapp\\teckworkshopapiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E8A718C-EF05-4EFF-94F4-E0B43ED50915}|TeckWorkShopAPIApp\\TeckWorkShopAPIApp.csproj|solutionrelative:teckworkshopapiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8A718C-EF05-4EFF-94F4-E0B43ED50915}|TeckWorkShopAPIApp\\TeckWorkShopAPIApp.csproj|c:\\users\\cdac\\desktop\\dotnet\\teckworkshopapiapp\\teckworkshopapiapp\\model\\techworkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8A718C-EF05-4EFF-94F4-E0B43ED50915}|TeckWorkShopAPIApp\\TeckWorkShopAPIApp.csproj|solutionrelative:teckworkshopapiapp\\model\\techworkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TechWorkShopController.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\TeckWorkShopAPIApp\\TeckWorkShopAPIApp\\Controllers\\TechWorkShopController.cs",
+              "RelativeDocumentMoniker": "TeckWorkShopAPIApp\\Controllers\\TechWorkShopController.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\TeckWorkShopAPIApp\\TeckWorkShopAPIApp\\Controllers\\TechWorkShopController.cs",
+              "RelativeToolTip": "TeckWorkShopAPIApp\\Controllers\\TechWorkShopController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:17:24.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechWorkDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\TeckWorkShopAPIApp\\TeckWorkShopAPIApp\\DbContext\\TechWorkDbContext.cs",
+              "RelativeDocumentMoniker": "TeckWorkShopAPIApp\\DbContext\\TechWorkDbContext.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\TeckWorkShopAPIApp\\TeckWorkShopAPIApp\\DbContext\\TechWorkDbContext.cs",
+              "RelativeToolTip": "TeckWorkShopAPIApp\\DbContext\\TechWorkDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:12:38.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\TeckWorkShopAPIApp\\TeckWorkShopAPIApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TeckWorkShopAPIApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\TeckWorkShopAPIApp\\TeckWorkShopAPIApp\\appsettings.json",
+              "RelativeToolTip": "TeckWorkShopAPIApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T08:54:05.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\TeckWorkShopAPIApp\\TeckWorkShopAPIApp\\Program.cs",
+              "RelativeDocumentMoniker": "TeckWorkShopAPIApp\\Program.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\TeckWorkShopAPIApp\\TeckWorkShopAPIApp\\Program.cs",
+              "RelativeToolTip": "TeckWorkShopAPIApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:54:00.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TechWorkShop.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\Desktop\\DotNet\\TeckWorkShopAPIApp\\TeckWorkShopAPIApp\\model\\TechWorkShop.cs",
+              "RelativeDocumentMoniker": "TeckWorkShopAPIApp\\model\\TechWorkShop.cs",
+              "ToolTip": "C:\\Users\\CDAC\\Desktop\\DotNet\\TeckWorkShopAPIApp\\TeckWorkShopAPIApp\\model\\TechWorkShop.cs",
+              "RelativeToolTip": "TeckWorkShopAPIApp\\model\\TechWorkShop.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:53:04.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

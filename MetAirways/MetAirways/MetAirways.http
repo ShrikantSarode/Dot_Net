@@ -1,0 +1,6 @@
+@MetAirways_HostAddress = http://localhost:5048
+
+GET {{MetAirways_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

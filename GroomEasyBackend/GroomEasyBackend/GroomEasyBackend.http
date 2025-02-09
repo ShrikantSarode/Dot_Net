@@ -1,0 +1,6 @@
+@GroomEasyBackend_HostAddress = http://localhost:5080
+
+GET {{GroomEasyBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

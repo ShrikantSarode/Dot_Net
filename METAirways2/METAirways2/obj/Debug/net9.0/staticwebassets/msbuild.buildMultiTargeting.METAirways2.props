@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\METAirways2.props" />
+</Project>

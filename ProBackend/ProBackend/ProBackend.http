@@ -1,0 +1,6 @@
+@ProBackend_HostAddress = http://localhost:5118
+
+GET {{ProBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+C:\Users\CDAC\Desktop\DotNet\TeckWorkShopAPIApp\TeckWorkShopAPIApp\obj\Debug\net8.0\TeckWorkShopAPIApp.csproj.AssemblyReference.cache
+C:\Users\CDAC\Desktop\DotNet\TeckWorkShopAPIApp\TeckWorkShopAPIApp\obj\Debug\net8.0\TeckWorkShopAPIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\DotNet\TeckWorkShopAPIApp\TeckWorkShopAPIApp\obj\Debug\net8.0\TeckWorkShopAPIApp.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\DotNet\TeckWorkShopAPIApp\TeckWorkShopAPIApp\obj\Debug\net8.0\TeckWorkShopAPIApp.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\DotNet\TeckWorkShopAPIApp\TeckWorkShopAPIApp\obj\Debug\net8.0\TeckWorkShopAPIApp.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\DotNet\TeckWorkShopAPIApp\TeckWorkShopAPIApp\obj\Debug\net8.0\TeckWorkShopAPIApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CDAC\Desktop\DotNet\TeckWorkShopAPIApp\TeckWorkShopAPIApp\obj\Debug\net8.0\TeckWorkShopAPIApp.sourcelink.json

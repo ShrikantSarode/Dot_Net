@@ -1,0 +1,8 @@
+C:\Users\CDAC\Desktop\DotNet\MetAirways\MetAirways\obj\Debug\net8.0\MetAirways.csproj.AssemblyReference.cache
+C:\Users\CDAC\Desktop\DotNet\MetAirways\MetAirways\obj\Debug\net8.0\MetAirways.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\DotNet\MetAirways\MetAirways\obj\Debug\net8.0\MetAirways.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\DotNet\MetAirways\MetAirways\obj\Debug\net8.0\MetAirways.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\DotNet\MetAirways\MetAirways\obj\Debug\net8.0\MetAirways.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\DotNet\MetAirways\MetAirways\obj\Debug\net8.0\MetAirways.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CDAC\Desktop\DotNet\MetAirways\MetAirways\obj\Debug\net8.0\MetAirways.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CDAC\Desktop\DotNet\MetAirways\MetAirways\obj\Debug\net8.0\MetAirways.sourcelink.json
